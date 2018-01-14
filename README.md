@@ -5,17 +5,7 @@ A set of two Powershell commands to access LUAS times with two different methods
 Get-LuasTimes makes a REST call to https://data.dublinked.ie where you can lookup any bus, LUAS or Stop stop. 
 For some reason 14/1/2018 the new LUAS stops do not show up yet 
 
-//example
-PS > Get-LuasTimes -StopID LUAS38 |  ? {$_.origin -like "*brid*"} | fl destination,duetime
-
-destination : LUAS Broombridge
-duetime     : Due
-
-destination : LUAS Bride's Glen
-duetime     : 11
-
-destination : LUAS Parnell
-duetime     : 12
+![Screenshot](luasstops.jpg)
 
 # Get-LuasTimesScrape 
 Get-LuasTimesScrape makes a web call to the same URL The Luas.ie calls when you look at the web page
