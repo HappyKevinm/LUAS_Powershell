@@ -1,266 +1,332 @@
 [
     {
         "Line":  "Green",
-        "Stop":  "Cabra"
+        "ShortName":  "Cabra",
+        "StopURIName":  "Cabra"
     },
     {
         "Line":  "Green",
-        "Stop":  "Phibsborough"
+        "ShortName":  "Phibsborough",
+        "StopURIName":  "Phibsborough"
     },
     {
         "Line":  "Green",
-        "Stop":  "Grangegorman"
+        "ShortName":  "Grangegorman",
+        "StopURIName":  "Grangegorman"
     },
     {
         "Line":  "Green",
-        "Stop":  "Broadstone+-+DIT"
+        "ShortName":  "BroadstoneDIT",
+        "StopURIName":  "Broadstone+-+DIT"
     },
     {
         "Line":  "Green",
-        "Stop":  "Dominick"
+        "ShortName":  "Dominick",
+        "StopURIName":  "Dominick"
     },
     {
         "Line":  "Green",
-        "Stop":  "Parnell"
+        "ShortName":  "Parnell",
+        "StopURIName":  "Parnell"
     },
     {
         "Line":  "Green",
-        "Stop":  "Marlborough"
+        "ShortName":  "Marlborough",
+        "StopURIName":  "Marlborough"
     },
     {
         "Line":  "Green",
-        "Stop":  "Trinity"
+        "ShortName":  "Trinity",
+        "StopURIName":  "Trinity"
     },
     {
         "Line":  "Green",
-        "Stop":  "O\u0027Connell+Upper"
+        "ShortName":  "OConnellUpper",
+        "StopURIName":  "O\u0027Connell+Upper"
     },
     {
         "Line":  "Green",
-        "Stop":  "O\u0027Connell+-+GPO"
+        "ShortName":  "OConnellGPO",
+        "StopURIName":  "O\u0027Connell+-+GPO"
     },
     {
         "Line":  "Green",
-        "Stop":  "Westmoreland"
+        "ShortName":  "Westmoreland",
+        "StopURIName":  "Westmoreland"
     },
     {
         "Line":  "Green",
-        "Stop":  "Dawson"
+        "ShortName":  "Dawson",
+        "StopURIName":  "Dawson"
     },
     {
         "Line":  "Green",
-        "Stop":  "St.+Stephen\u0027s+Green"
+        "ShortName":  "StStephensGreen",
+        "StopURIName":  "St.+Stephen\u0027s+Green"
     },
     {
         "Line":  "Green",
-        "Stop":  "Harcourt"
+        "ShortName":  "Harcourt",
+        "StopURIName":  "Harcourt"
     },
     {
         "Line":  "Green",
-        "Stop":  "Charlemont"
+        "ShortName":  "Charlemont",
+        "StopURIName":  "Charlemont"
     },
     {
         "Line":  "Green",
-        "Stop":  "Ranelagh"
+        "ShortName":  "Ranelagh",
+        "StopURIName":  "Ranelagh"
     },
     {
         "Line":  "Green",
-        "Stop":  "Beechwood"
+        "ShortName":  "Beechwood",
+        "StopURIName":  "Beechwood"
     },
     {
         "Line":  "Green",
-        "Stop":  "Cowper"
+        "ShortName":  "Cowper",
+        "StopURIName":  "Cowper"
     },
     {
         "Line":  "Green",
-        "Stop":  "Milltown"
+        "ShortName":  "Milltown",
+        "StopURIName":  "Milltown"
     },
     {
         "Line":  "Green",
-        "Stop":  "Windy+Arbour"
+        "ShortName":  "WindyArbour",
+        "StopURIName":  "Windy+Arbour"
     },
     {
         "Line":  "Green",
-        "Stop":  "Dundrum"
+        "ShortName":  "Dundrum",
+        "StopURIName":  "Dundrum"
     },
     {
         "Line":  "Green",
-        "Stop":  "Balally"
+        "ShortName":  "Balally",
+        "StopURIName":  "Balally"
     },
     {
         "Line":  "Green",
-        "Stop":  "Kilmacud"
+        "ShortName":  "Kilmacud",
+        "StopURIName":  "Kilmacud"
     },
     {
         "Line":  "Green",
-        "Stop":  "Stillorgan"
+        "ShortName":  "Stillorgan",
+        "StopURIName":  "Stillorgan"
     },
     {
         "Line":  "Green",
-        "Stop":  "Sandyford"
+        "ShortName":  "Sandyford",
+        "StopURIName":  "Sandyford"
     },
     {
         "Line":  "Green",
-        "Stop":  "Central+Park"
+        "ShortName":  "CentralPark",
+        "StopURIName":  "Central+Park"
     },
     {
         "Line":  "Green",
-        "Stop":  "Glencairn"
+        "ShortName":  "Glencairn",
+        "StopURIName":  "Glencairn"
     },
     {
         "Line":  "Green",
-        "Stop":  "The+Gallops"
+        "ShortName":  "TheGallops",
+        "StopURIName":  "The+Gallops"
     },
     {
         "Line":  "Green",
-        "Stop":  "Leopardstown+Valley"
+        "ShortName":  "LeopardstownValley",
+        "StopURIName":  "Leopardstown+Valley"
     },
     {
         "Line":  "Green",
-        "Stop":  "Ballyogan+Wood"
+        "ShortName":  "BallyoganWood",
+        "StopURIName":  "Ballyogan+Wood"
     },
     {
         "Line":  "Green",
-        "Stop":  "Carrickmines"
+        "ShortName":  "Carrickmines",
+        "StopURIName":  "Carrickmines"
     },
     {
         "Line":  "Green",
-        "Stop":  "Laughanstown"
+        "ShortName":  "Laughanstown",
+        "StopURIName":  "Laughanstown"
     },
     {
         "Line":  "Green",
-        "Stop":  "Cherrywood"
+        "ShortName":  "Cherrywood",
+        "StopURIName":  "Cherrywood"
     },
     {
         "Line":  "Green",
-        "Stop":  "Brides+Glen"
+        "ShortName":  "BridesGlen",
+        "StopURIName":  "Brides+Glen"
     },
     {
         "Line":  "Red",
-        "Stop":  "Tallaght"
+        "ShortName":  "Tallaght",
+        "StopURIName":  "Tallaght"
     },
     {
         "Line":  "Red",
-        "Stop":  "Hospital"
+        "ShortName":  "Hospital",
+        "StopURIName":  "Hospital"
     },
     {
         "Line":  "Red",
-        "Stop":  "Cookstown"
+        "ShortName":  "Cookstown",
+        "StopURIName":  "Cookstown"
     },
     {
         "Line":  "Red",
-        "Stop":  "Saggart"
+        "ShortName":  "Saggart",
+        "StopURIName":  "Saggart"
     },
     {
         "Line":  "Red",
-        "Stop":  "Fortunestown"
+        "ShortName":  "Fortunestown",
+        "StopURIName":  "Fortunestown"
     },
     {
         "Line":  "Red",
-        "Stop":  "Citywest+Campus"
+        "ShortName":  "CitywestCampus",
+        "StopURIName":  "Citywest+Campus"
     },
     {
         "Line":  "Red",
-        "Stop":  "Cheeverstown"
+        "ShortName":  "Cheeverstown",
+        "StopURIName":  "Cheeverstown"
     },
     {
         "Line":  "Red",
-        "Stop":  "Fettercairn"
+        "ShortName":  "Fettercairn",
+        "StopURIName":  "Fettercairn"
     },
     {
         "Line":  "Red",
-        "Stop":  "Belgard"
+        "ShortName":  "Belgard",
+        "StopURIName":  "Belgard"
     },
     {
         "Line":  "Red",
-        "Stop":  "Kingswood"
+        "ShortName":  "Kingswood",
+        "StopURIName":  "Kingswood"
     },
     {
         "Line":  "Red",
-        "Stop":  "Red+Cow"
+        "ShortName":  "RedCow",
+        "StopURIName":  "Red+Cow"
     },
     {
         "Line":  "Red",
-        "Stop":  "Kylemore"
+        "ShortName":  "Kylemore",
+        "StopURIName":  "Kylemore"
     },
     {
         "Line":  "Red",
-        "Stop":  "Bluebell"
+        "ShortName":  "Bluebell",
+        "StopURIName":  "Bluebell"
     },
     {
         "Line":  "Red",
-        "Stop":  "Blackhorse"
+        "ShortName":  "Blackhorse",
+        "StopURIName":  "Blackhorse"
     },
     {
         "Line":  "Red",
-        "Stop":  "Drimnagh"
+        "ShortName":  "Drimnagh",
+        "StopURIName":  "Drimnagh"
     },
     {
         "Line":  "Red",
-        "Stop":  "Goldenbridge"
+        "ShortName":  "Goldenbridge",
+        "StopURIName":  "Goldenbridge"
     },
     {
         "Line":  "Red",
-        "Stop":  "Suir+Road"
+        "ShortName":  "SuirRoad",
+        "StopURIName":  "Suir+Road"
     },
     {
         "Line":  "Red",
-        "Stop":  "Rialto"
+        "ShortName":  "Rialto",
+        "StopURIName":  "Rialto"
     },
     {
         "Line":  "Red",
-        "Stop":  "Fatima"
+        "ShortName":  "Fatima",
+        "StopURIName":  "Fatima"
     },
     {
         "Line":  "Red",
-        "Stop":  "James\u0027s"
+        "ShortName":  "Jamess",
+        "StopURIName":  "James\u0027s"
     },
     {
         "Line":  "Red",
-        "Stop":  "Heuston"
+        "ShortName":  "Heuston",
+        "StopURIName":  "Heuston"
     },
     {
         "Line":  "Red",
-        "Stop":  "Museum"
+        "ShortName":  "Museum",
+        "StopURIName":  "Museum"
     },
     {
         "Line":  "Red",
-        "Stop":  "Smithfield"
+        "ShortName":  "Smithfield",
+        "StopURIName":  "Smithfield"
     },
     {
         "Line":  "Red",
-        "Stop":  "Four+Courts"
+        "ShortName":  "FourCourts",
+        "StopURIName":  "Four+Courts"
     },
     {
         "Line":  "Red",
-        "Stop":  "Jervis"
+        "ShortName":  "Jervis",
+        "StopURIName":  "Jervis"
     },
     {
         "Line":  "Red",
-        "Stop":  "Abbey+Street"
+        "ShortName":  "AbbeyStreet",
+        "StopURIName":  "Abbey+Street"
     },
     {
         "Line":  "Red",
-        "Stop":  "Bus\u00E1ras"
+        "ShortName":  "Busaras",
+        "StopURIName":  "Bus\u00E1ras"
     },
     {
         "Line":  "Red",
-        "Stop":  "Connolly"
+        "ShortName":  "Connolly",
+        "StopURIName":  "Connolly"
     },
     {
         "Line":  "Red",
-        "Stop":  "George\u0027s+Dock"
+        "ShortName":  "GeorgesDock",
+        "StopURIName":  "George\u0027s+Dock"
     },
     {
         "Line":  "Red",
-        "Stop":  "Mayor+Square+-+NCI"
+        "ShortName":  "MayorSquareNCI",
+        "StopURIName":  "Mayor+Square+-+NCI"
     },
     {
         "Line":  "Red",
-        "Stop":  "Spencer+Dock"
+        "ShortName":  "SpencerDock",
+        "StopURIName":  "Spencer+Dock"
     },
     {
         "Line":  "Red",
-        "Stop":  "The+Point"
+        "ShortName":  "ThePoint",
+        "StopURIName":  "The+Point"
     }
 ]
