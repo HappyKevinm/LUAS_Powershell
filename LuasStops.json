@@ -1,0 +1,266 @@
+[
+    {
+        "Line":  "Green",
+        "Stop":  "Cabra"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Phibsborough"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Grangegorman"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Broadstone+-+DIT"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Dominick"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Parnell"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Marlborough"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Trinity"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "O\u0027Connell+Upper"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "O\u0027Connell+-+GPO"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Westmoreland"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Dawson"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "St.+Stephen\u0027s+Green"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Harcourt"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Charlemont"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Ranelagh"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Beechwood"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Cowper"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Milltown"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Windy+Arbour"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Dundrum"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Balally"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Kilmacud"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Stillorgan"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Sandyford"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Central+Park"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Glencairn"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "The+Gallops"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Leopardstown+Valley"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Ballyogan+Wood"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Carrickmines"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Laughanstown"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Cherrywood"
+    },
+    {
+        "Line":  "Green",
+        "Stop":  "Brides+Glen"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Tallaght"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Hospital"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Cookstown"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Saggart"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Fortunestown"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Citywest+Campus"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Cheeverstown"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Fettercairn"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Belgard"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Kingswood"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Red+Cow"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Kylemore"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Bluebell"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Blackhorse"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Drimnagh"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Goldenbridge"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Suir+Road"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Rialto"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Fatima"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "James\u0027s"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Heuston"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Museum"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Smithfield"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Four+Courts"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Jervis"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Abbey+Street"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Busáras"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Connolly"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "George\u0027s+Dock"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Mayor+Square+-+NCI"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "Spencer+Dock"
+    },
+    {
+        "Line":  "Red",
+        "Stop":  "The+Point"
+    }
+]
